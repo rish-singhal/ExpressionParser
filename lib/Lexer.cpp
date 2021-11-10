@@ -52,4 +52,4 @@ Status Lexer::parseTokens(vector<Token>* tokens)
     return Status(Status::Type::Ok);
 };
 
-}
+} // namespace expressionParser
