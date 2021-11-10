@@ -2,7 +2,7 @@
 
 The Expression Parser is a CLI tool which supports arithmetic expressions
 which consists of digits `0-9` and binary operations `+, *, /, -`
-with support for `parentheses` with error handling.
+with support for `parentheses` and error handling.
 
 ## Instructions
 
