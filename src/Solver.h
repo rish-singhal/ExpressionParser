@@ -24,4 +24,4 @@ private:
     const std::string expression;
 };
 
-}
+}  // namespace expressionParser
