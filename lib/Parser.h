@@ -4,11 +4,13 @@
 
 #pragma once
 
-#include <utility>
-#include <vector>
 
 #include "ASTNode.h"
 #include "Status.h"
+
+#include <vector>
+#include <utility>
+
 
 namespace expressionParser
 {
@@ -34,4 +36,4 @@ private:
     uint32_t m_position;
 };
 
-}
+} // namespace expressionParser
