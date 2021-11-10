@@ -22,6 +22,4 @@ public:
          ) const;
 };
 
-}
-
-
+} // namespace expressionParser
