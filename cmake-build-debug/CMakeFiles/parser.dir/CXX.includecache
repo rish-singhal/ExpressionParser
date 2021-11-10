@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rishabhsinghal/work/projects/parser/lib/Status.h
+string
+-
+utility
+-
+
+/Users/rishabhsinghal/work/projects/parser/src/Solver.h
+../lib/Status.h
+/Users/rishabhsinghal/work/projects/parser/lib/Status.h
+string
+-
+utility
+-
+
+/Users/rishabhsinghal/work/projects/parser/src/main.cpp
+iostream
+-
+string
+-
+Solver.h
+/Users/rishabhsinghal/work/projects/parser/src/Solver.h
+../tests/TestSolver.h
+/Users/rishabhsinghal/work/projects/parser/tests/TestSolver.h
+
