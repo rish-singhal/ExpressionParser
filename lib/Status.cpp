@@ -23,4 +23,4 @@ void Status::printMessage() const
         cout << "STATUS OK: " << m_message << "\n";
 }
 
-}
+} // namespace expressionParser
