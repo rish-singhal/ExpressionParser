@@ -1,8 +1,8 @@
-#include <iostream>
-#include <string>
-
 #include "Solver.h"
 #include "../tests/TestSolver.h"
+
+#include <iostream>
+#include <string>
 
 using namespace std;
 
