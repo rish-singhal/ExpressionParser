@@ -3,9 +3,10 @@
 */
 #pragma once
 
+#include "Constants.h"
+
 #include <string>
 
-#include "Constants.h"
 
 namespace expressionParser {
 
