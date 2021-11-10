@@ -13,7 +13,7 @@ const string Token::allowedTypes = "+-*/()";
 bool Token::isDigit() const
 {
     return type == Type::Digit;
-};
+}
 
 bool Token::isParenthesis() const
 {
