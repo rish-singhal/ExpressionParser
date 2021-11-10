@@ -28,4 +28,4 @@ namespace errorMessages
        "Input is empty";
 }  // namespace errorMessages
 
-}
+} // namespace expressionParser
